@@ -1,0 +1,27 @@
+.post {
+  margin-bottom: 75px; }
+  .post > .list-group > .img-container {
+    padding: 0; }
+    .post > .list-group > .img-container > img {
+      width: 100%; }
+  .post > .list-group > .detail-container > .action {
+    font-size: 24px;
+    padding-left: 10px; }
+    .post > .list-group > .detail-container > .action > .item:nth-child(1) {
+      margin-right: 20px; }
+    .post > .list-group > .detail-container > .action > .item:nth-child(3) {
+      margin-right: 20px;
+      right: 0;
+      position: absolute; }
+  .post > .list-group > .detail-container > .detail {
+    display: block;
+    padding-left: 14px;
+    padding-right: 14px; }
+    .post > .list-group > .detail-container > .detail > .view-all {
+      color: #999; }
+    .post > .list-group > .detail-container > .detail > .time {
+      color: #999;
+      font-size: 12px;
+      margin-top: 6px; }
+    .post > .list-group > .detail-container > .detail > .comment-input {
+      border: none; }

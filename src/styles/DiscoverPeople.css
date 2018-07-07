@@ -1,0 +1,14 @@
+.discover-people {
+  height: 250px; }
+  .discover-people > .profile {
+    text-align: center; }
+    .discover-people > .profile > img {
+      margin: 0 auto;
+      width: 100px;
+      height: 100px; }
+    .discover-people > .profile > .title {
+      margin-top: 15px; }
+      .discover-people > .profile > .title > button {
+        width: 50%;
+        margin: 0 auto;
+        margin-top: 8px; }
